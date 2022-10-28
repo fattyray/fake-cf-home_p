@@ -54,7 +54,7 @@ main{
     border: 2px dotted rgb(185,185,185);
     padding: 20px;
     background-clip: content-box;
-    background-image: url("ans.jpg");
+    background-image: url(".jpg");
     background-repeat: no-repeat;
     background-size: contain;
 }
